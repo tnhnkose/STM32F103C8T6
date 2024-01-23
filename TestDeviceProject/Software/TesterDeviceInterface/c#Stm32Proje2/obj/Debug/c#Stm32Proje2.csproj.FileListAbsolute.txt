@@ -1,0 +1,12 @@
+C:\Users\tnhn_kose\source\repos\c#Stm32Proje2\c#Stm32Proje2\obj\Debug\c#Stm32Proje2.csproj.AssemblyReference.cache
+C:\Users\tnhn_kose\source\repos\c#Stm32Proje2\c#Stm32Proje2\obj\Debug\c#Stm32Proje2.csproj.SuggestedBindingRedirects.cache
+C:\Users\tnhn_kose\source\repos\c#Stm32Proje2\c#Stm32Proje2\obj\Debug\c_Stm32Proje2.Form1.resources
+C:\Users\tnhn_kose\source\repos\c#Stm32Proje2\c#Stm32Proje2\obj\Debug\c_Stm32Proje2.Properties.Resources.resources
+C:\Users\tnhn_kose\source\repos\c#Stm32Proje2\c#Stm32Proje2\obj\Debug\c#Stm32Proje2.csproj.GenerateResource.cache
+C:\Users\tnhn_kose\source\repos\c#Stm32Proje2\c#Stm32Proje2\obj\Debug\c#Stm32Proje2.csproj.CoreCompileInputs.cache
+C:\Users\tnhn_kose\source\repos\c#Stm32Proje2\c#Stm32Proje2\bin\Debug\c#Stm32Proje2.exe.config
+C:\Users\tnhn_kose\source\repos\c#Stm32Proje2\c#Stm32Proje2\bin\Debug\c#Stm32Proje2.exe
+C:\Users\tnhn_kose\source\repos\c#Stm32Proje2\c#Stm32Proje2\bin\Debug\c#Stm32Proje2.pdb
+C:\Users\tnhn_kose\source\repos\c#Stm32Proje2\c#Stm32Proje2\obj\Debug\c#Stm32Proje2.exe
+C:\Users\tnhn_kose\source\repos\c#Stm32Proje2\c#Stm32Proje2\obj\Debug\c#Stm32Proje2.pdb
+C:\Users\tnhn_kose\source\repos\c#Stm32Proje2\c#Stm32Proje2\obj\Debug\c_Stm32Proje2.Form2.resources
